@@ -1,0 +1,25 @@
+{
+    "name": "hanratty"
+  , "version": "0.0.1"
+  , "description": "Facebook login flow for the web implementation for node.js"
+  , "keywords": ["facebook", "authentication", "social", "login", "api"]
+  , "homepage": "https://github.com/kulte/hanratty"
+  , "bugs": {
+      "url": "https://github.com/kulte/hanratty/issues"
+    , "email": "zafriedman@gmail.com"
+  }
+  , "author": "Zachary Friedman <zafriedman@gmail.com> (http://betareduction.tumblr.com)"
+  , "main": "hanratty"
+  , "repository": {
+      "type": "git"
+    , "url": "git@github.com:kulte/hanratty.git"
+  }
+  , "dependencies": {
+      "superagent": "0.14.2"
+    , "underscore": "1.4.4"
+    , "mocha": "1.9.0"
+  }
+  , "engines": {
+      "node": "*"
+  }
+}
